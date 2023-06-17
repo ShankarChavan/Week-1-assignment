@@ -11,6 +11,7 @@ describe('Calculator', () => {
 		calc.clear();
 	});
 
+
 	test('addition', () => {
 		calc.add(5);
 		expect(calc.getResult()).toBe(5);

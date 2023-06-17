@@ -9,6 +9,7 @@
   "scripts": {
     "test-anagram": "npx jest ./tests/anagram.test.js",
     "test-calculator": "npx jest ./tests/calculator.test.js",
+    "test-calculateTime": "npx jest ./tests/calculateTime.test.js",
     "test-duplicate-transactions": "npx jest ./tests/duplicate-transactions.test.js",
     "test-expenditure-analysis": "npx jest ./tests/expenditure-analysis.test.js",
     "test-palindrome": "npx jest ./tests/palindrome.test.js",
